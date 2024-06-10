@@ -1,14 +1,68 @@
 [
   {
     "qusIndex": 1,
-    "question": "Reduce speed ?",
+    "question": "Should we reduce speed?",
     "answers": [
-      "yes",
-      "no",
-      "maybe",
-      "notsure"
+      "Yes",
+      "No",
+      "Maybe",
+      "Not sure"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "qusIndex": 2,
+    "question": "What is the capital of France?",
+    "answers": [
+      "Berlin",
+      "Madrid",
+      "Paris",
+      "Rome"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "qusIndex": 3,
+    "question": "Which planet is known as the Red Planet?",
+    "answers": [
+      "Earth",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "qusIndex": 4,
+    "question": "What is the chemical symbol for water?",
+    "answers": [
+      "H2O",
+      "O2",
+      "CO2",
+      "H2"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "qusIndex": 5,
+    "question": "Who wrote 'Hamlet'?",
+    "answers": [
+      "Charles Dickens",
+      "William Shakespeare",
+      "Mark Twain",
+      "Jane Austen"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "qusIndex": 6,
+    "question": "What is the largest mammal?",
+    "answers": [
+      "Elephant",
+      "Blue Whale",
+      "Giraffe",
+      "Hippopotamus"
     ],
     "correctAnswerIndex": 1
   }
 ]
-
