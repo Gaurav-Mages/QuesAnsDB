@@ -45,17 +45,6 @@
   },
   {
     "qusIndex": 5,
-    "question": "Who wrote 'Hamlet'?",
-    "answers": [
-      "Charles Dickens",
-      "William Shakespeare",
-      "Mark Twain",
-      "Jane Austen"
-    ],
-    "correctAnswerIndex": 1
-  },
-  {
-    "qusIndex": 6,
     "question": "What is the largest mammal?",
     "answers": [
       "Elephant",
