@@ -1,57 +1,62 @@
 [
   {
-    "qusIndex": 1,
-    "question": "Should we reduce speed?",
-    "answers": [
-      "Yes",
-      "No",
-      "Maybe",
-      "Not sure"
-    ],
-    "correctAnswerIndex": 1
+    "id": 1,
+    "category_id": 101,
+    "question_title": "Should we reduce speed?",
+    "question_description": "A question about traffic safety and speed reduction.",
+    "answers": ["Yes", "No", "Maybe", "Not sure"],
+    "correct_answer_index": 0,
+    "creation_date_time": "2024-06-19T00:00:00Z",
+    "updated_date_time": "2024-06-19T00:00:00Z",
+    "created_by": "Admin",
+    "is_active": true
   },
   {
-    "qusIndex": 2,
-    "question": "What is the capital of France?",
-    "answers": [
-      "Berlin",
-      "Madrid",
-      "Paris",
-      "Rome"
-    ],
-    "correctAnswerIndex": 2
+    "id": 2,
+    "category_id": 102,
+    "question_title": "What is the capital of France?",
+    "question_description": "A geography-related question about the capital of France.",
+    "answers": ["Berlin", "Madrid", "Paris", "Rome"],
+    "correct_answer_index": 2,
+    "creation_date_time": "2024-06-19T00:00:00Z",
+    "updated_date_time": "2024-06-19T00:00:00Z",
+    "created_by": "Admin",
+    "is_active": true
   },
   {
-    "qusIndex": 3,
-    "question": "Which planet is known as the Red Planet?",
-    "answers": [
-      "Earth",
-      "Mars",
-      "Jupiter",
-      "Saturn"
-    ],
-    "correctAnswerIndex": 1
+    "id": 3,
+    "category_id": 103,
+    "question_title": "Which planet is known as the Red Planet?",
+    "question_description": "A question related to planetary science about Mars.",
+    "answers": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "correct_answer_index": 1,
+    "creation_date_time": "2024-06-19T00:00:00Z",
+    "updated_date_time": "2024-06-19T00:00:00Z",
+    "created_by": "Admin",
+    "is_active": true
   },
   {
-    "qusIndex": 4,
-    "question": "What is the chemical symbol for water?",
-    "answers": [
-      "H2O",
-      "O2",
-      "CO2",
-      "H2"
-    ],
-    "correctAnswerIndex": 0
+    "id": 4,
+    "category_id": 104,
+    "question_title": "What is the chemical symbol for water?",
+    "question_description": "A basic chemistry question about the composition of water.",
+    "answers": ["H2O", "O2", "CO2", "H2"],
+    "correct_answer_index": 0,
+    "creation_date_time": "2024-06-19T00:00:00Z",
+    "updated_date_time": "2024-06-19T00:00:00Z",
+    "created_by": "Admin",
+    "is_active": true
   },
   {
-    "qusIndex": 5,
-    "question": "What is the largest mammal?",
-    "answers": [
-      "Elephant",
-      "Blue Whale",
-      "Giraffe",
-      "Hippopotamus"
-    ],
-    "correctAnswerIndex": 1
+    "id": 5,
+    "category_id": 105,
+    "question_title": "What is the largest mammal?",
+    "question_description": "A question related to zoology about the largest mammal on Earth.",
+    "answers": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+    "correct_answer_index": 1,
+    "creation_date_time": "2024-06-19T00:00:00Z",
+    "updated_date_time": "2024-06-19T00:00:00Z",
+    "created_by": "Admin",
+    "is_active": true
   }
 ]
